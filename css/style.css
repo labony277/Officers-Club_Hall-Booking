@@ -3138,7 +3138,7 @@ body.active #mobile-nav {
 /*-- prs Newsletter css End --*/
 /*-- prs footer Wrapper Start --*/
 .prs_footer_main_section_wrapper{
-	background:#111111;
+	background:#f1f1f1;
 	float:left;
 	width:100%;
 	height:100%;
@@ -3152,7 +3152,7 @@ body.active #mobile-nav {
 .prs_footer_cont1_wrapper h2{
 	font-size:18px;
 	font-weight:bold;
-	color:#ffffff;
+	color:#c91d1d;
 	position:relative;
 	text-transform:uppercase;
 }
@@ -3175,7 +3175,7 @@ body.active #mobile-nav {
 .prs_footer_cont1_wrapper p{
 	font-size:15px;
 	padding-top: 55px;
-	color:rgba(255, 255, 255, 0.57);
+	color:rgba(17 18 17  57%);
 }
 .prs_footer_cont1_wrapper ul{
 	padding-top:45px;
@@ -3218,7 +3218,7 @@ body.active #mobile-nav {
 	margin-top:10px;
 }
 .prs_footer_cont1_wrapper li a{
-	color:rgba(255, 255, 255, 0.57);
+	color:rgba(17 18 17 / 57%));
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
 	-ms-transition: all 0.5s;
