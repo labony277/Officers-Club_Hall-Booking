@@ -304,12 +304,12 @@ ul.colors li:hover p {
 .prs_navi_right_main_wrapper{
 	float:left;
 	width:45%;
-	padding-top: 25px;
+	padding-top: 21px;
 }
 .prs_logo_main_wrapper{
 	float:left;
-	padding-top: 30px;
-    padding-bottom: 30px;
+	padding-top: 20px;
+    /* padding-bottom: 30px; */
 	position: relative;
     z-index: 1;
 }
@@ -2304,6 +2304,14 @@ body.active #mobile-nav {
 	font-weight:bold;
 	position:relative;
 }
+.prs_theater_sec_heading_wrappe h2{
+	font-size:36px;
+	color:rgb(201 29 29);
+	text-transform:uppercase;
+	font-weight:bold;
+	position:relative;
+	margin-top: 17%;
+}
 .prs_theater_sec_heading_wrapper h2:after{
 	content:'';
 	border:1px solid rgba(255, 255, 255, 0.26);
@@ -3158,7 +3166,7 @@ body.active #mobile-nav {
 }
 .prs_footer_cont1_wrapper h2:after{
 	content:'';
-	border:1px solid rgba(255, 255, 255, 0.28);
+	border:1px solid rgb(227 13 13 / 47%);
 	width:90px;
 	position:absolute;
 	bottom:-20px;
